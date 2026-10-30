@@ -54,4 +54,5 @@ button.pack()
 
 threading.Thread(target=camera, daemon=True).start()
 update()
+
 root.mainloop()
