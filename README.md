@@ -1,2 +1,2 @@
 # Koding-Kids-10-30
-It's an example and a practise
+It's in preparation :/
